@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/root/code/chat/build/src/server",
+  "command": "/usr/bin/g++    -g -g -I/root/code/chat/include -I/root/code/chat/include/server -I/root/code/chat/include/server/db -I/root/code/chat/include/server/model -I/root/code/chat/include/server/redis -I/root/code/chat/include/server/connectionpool -I/root/code/chat/thirdparty    -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /root/code/chat/src/server/chatserver.cpp",
+  "file": "/root/code/chat/src/server/chatserver.cpp"
+},
+{
+  "directory": "/root/code/chat/build/src/server",
+  "command": "/usr/bin/g++    -g -g -I/root/code/chat/include -I/root/code/chat/include/server -I/root/code/chat/include/server/db -I/root/code/chat/include/server/model -I/root/code/chat/include/server/redis -I/root/code/chat/include/server/connectionpool -I/root/code/chat/thirdparty    -o CMakeFiles/ChatServer.dir/main.cpp.o -c /root/code/chat/src/server/main.cpp",
+  "file": "/root/code/chat/src/server/main.cpp"
+},
+{
+  "directory": "/root/code/chat/build/src/server",
+  "command": "/usr/bin/g++    -g -g -I/root/code/chat/include -I/root/code/chat/include/server -I/root/code/chat/include/server/db -I/root/code/chat/include/server/model -I/root/code/chat/include/server/redis -I/root/code/chat/include/server/connectionpool -I/root/code/chat/thirdparty    -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /root/code/chat/src/server/chatservice.cpp",
+  "file": "/root/code/chat/src/server/chatservice.cpp"
+},
+{
+  "directory": "/root/code/chat/build/src/server",
+  "command": "/usr/bin/g++    -g -g -I/root/code/chat/include -I/root/code/chat/include/server -I/root/code/chat/include/server/db -I/root/code/chat/include/server/model -I/root/code/chat/include/server/redis -I/root/code/chat/include/server/connectionpool -I/root/code/chat/thirdparty    -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /root/code/chat/src/server/db/db.cpp",
+  "file": "/root/code/chat/src/server/db/db.cpp"
+},
+{
+  "directory": "/root/code/chat/build/src/server",
+  "command": "/usr/bin/g++    -g -g -I/root/code/chat/include -I/root/code/chat/include/server -I/root/code/chat/include/server/db -I/root/code/chat/include/server/model -I/root/code/chat/include/server/redis -I/root/code/chat/include/server/connectionpool -I/root/code/chat/thirdparty    -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /root/code/chat/src/server/model/friendmodel.cpp",
+  "file": "/root/code/chat/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/root/code/chat/build/src/server",
+  "command": "/usr/bin/g++    -g -g -I/root/code/chat/include -I/root/code/chat/include/server -I/root/code/chat/include/server/db -I/root/code/chat/include/server/model -I/root/code/chat/include/server/redis -I/root/code/chat/include/server/connectionpool -I/root/code/chat/thirdparty    -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /root/code/chat/src/server/model/groupmodel.cpp",
+  "file": "/root/code/chat/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/root/code/chat/build/src/server",
+  "command": "/usr/bin/g++    -g -g -I/root/code/chat/include -I/root/code/chat/include/server -I/root/code/chat/include/server/db -I/root/code/chat/include/server/model -I/root/code/chat/include/server/redis -I/root/code/chat/include/server/connectionpool -I/root/code/chat/thirdparty    -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /root/code/chat/src/server/model/usermodel.cpp",
+  "file": "/root/code/chat/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/root/code/chat/build/src/server",
+  "command": "/usr/bin/g++    -g -g -I/root/code/chat/include -I/root/code/chat/include/server -I/root/code/chat/include/server/db -I/root/code/chat/include/server/model -I/root/code/chat/include/server/redis -I/root/code/chat/include/server/connectionpool -I/root/code/chat/thirdparty    -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /root/code/chat/src/server/model/offlinemessagemodel.cpp",
+  "file": "/root/code/chat/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/root/code/chat/build/src/server",
+  "command": "/usr/bin/g++    -g -g -I/root/code/chat/include -I/root/code/chat/include/server -I/root/code/chat/include/server/db -I/root/code/chat/include/server/model -I/root/code/chat/include/server/redis -I/root/code/chat/include/server/connectionpool -I/root/code/chat/thirdparty    -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /root/code/chat/src/server/redis/redis.cpp",
+  "file": "/root/code/chat/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/root/code/chat/build/src/server",
+  "command": "/usr/bin/g++    -g -g -I/root/code/chat/include -I/root/code/chat/include/server -I/root/code/chat/include/server/db -I/root/code/chat/include/server/model -I/root/code/chat/include/server/redis -I/root/code/chat/include/server/connectionpool -I/root/code/chat/thirdparty    -o CMakeFiles/ChatServer.dir/connectionpool/connection.cpp.o -c /root/code/chat/src/server/connectionpool/connection.cpp",
+  "file": "/root/code/chat/src/server/connectionpool/connection.cpp"
+},
+{
+  "directory": "/root/code/chat/build/src/server",
+  "command": "/usr/bin/g++    -g -g -I/root/code/chat/include -I/root/code/chat/include/server -I/root/code/chat/include/server/db -I/root/code/chat/include/server/model -I/root/code/chat/include/server/redis -I/root/code/chat/include/server/connectionpool -I/root/code/chat/thirdparty    -o CMakeFiles/ChatServer.dir/connectionpool/connectionpool.cpp.o -c /root/code/chat/src/server/connectionpool/connectionpool.cpp",
+  "file": "/root/code/chat/src/server/connectionpool/connectionpool.cpp"
+},
+{
+  "directory": "/root/code/chat/build/src/client",
+  "command": "/usr/bin/g++    -g -g -I/root/code/chat/include -I/root/code/chat/include/server -I/root/code/chat/include/server/db -I/root/code/chat/include/server/model -I/root/code/chat/include/server/redis -I/root/code/chat/include/server/connectionpool -I/root/code/chat/thirdparty    -o CMakeFiles/ChatClient.dir/main.cpp.o -c /root/code/chat/src/client/main.cpp",
+  "file": "/root/code/chat/src/client/main.cpp"
+}
+]

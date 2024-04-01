@@ -1,0 +1,2 @@
+/root/code/chat/build/src/client/CMakeFiles/ChatClient.dir
+/root/code/chat/build/src/server/CMakeFiles/ChatServer.dir
